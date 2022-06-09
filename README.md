@@ -1,2 +1,2 @@
-# leaf-website
-leaf website 2022
+# LeafNowWebsite
+It is a Website, where people can buy plants and seeds online.
